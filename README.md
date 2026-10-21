@@ -8,11 +8,14 @@ Equipe:
 Objetivo:
 O sistema tem como principal função modernizar o método de gerenciamento dos clientes da Festa e Cia, vizando perda mínima de dados e melhor gestão.
 O sistema deve ser simples 
+O sistema deve ser projetado para dispositivos móveis
 
 Desafios:
-Fazer com que minha vó use o sistema
+Fazer um sistema acessível para idosos, desenvolver o projeto para dispositivos móveis 
 
 Funcionalidades:
-o sistema ira cadastar o cliente junto com seu pedido
-fazer o inventário completo dos intens disponíveis para locação
-o sistema irá verificar o pedido do cliente, analizar se esta disponivel e atualizar a quantidade disponivel após a locação
+o sistema irá cadastar o cliente junto com seu pedido
+haverá um sistema de alerta avisando da data de entrega da locação
+fazer o inventário completo dos itens disponíveis para locação
+o sistema irá verificar o pedido do cliente, analizar se está disponivel e atualizar a quantidade disponivel após a locação
+
